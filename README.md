@@ -1,1 +1,2 @@
-This is the Read Me File :)
+
+Hi! I'm Gio :)
