@@ -8,7 +8,7 @@ I'm Giovanna Ehrig, a Computer Science Student at SDSU💻.
 <!-- TODO: Add last video link -->
 
 - :seedling: I have four years of coding experience.
-- :computer: I am currently learning about Web Development.
+- :computer: I am currently working on my Web Development and Game Development skills.
 - 🤔 I’m looking for an internship or a post-grad career!
 - 😄 Pronouns: She/Her.
 
