@@ -26,8 +26,8 @@ I'm Giovanna Ehrig, a Computer Science Student at SDSU💻.
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UhOhGio&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UhOhGio&theme=dark&layout=compact" width="410" /></p>
+<-!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UhOhGio&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UhOhGio&theme=dark&layout=compact" width="410" /></p> -->
 
 ------
 Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
