@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+<img alt="GIF" src="https://cdn.dribbble.com/users/1187278/screenshots/15719501/media/02b128a761010ed25d595a82daff17d4.gif" height="280" />
  <p/>
 <h1 align="center"> Hi! I'm Gio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
@@ -7,10 +7,10 @@ I'm Giovanna Ehrig, a Computer Science Student at SDSU💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I have four years of coding experience.
-- :computer: I am currently working on my Web Development and Game Development skills.
-- 🤔 I’m looking for an internship or a post-grad career!
-- 😄 Pronouns: She/Her.
+- :seedling: Four years of coding experience
+- :computer: Working on my Web Development and Game Development skills
+- 🔍 Looking for an internship or a post-grad career in 2025
+- 💭 Aspiring to be a creative in the tech industry
 
 🤝 &nbsp; Connect with Me
 
@@ -24,6 +24,5 @@ I'm Giovanna Ehrig, a Computer Science Student at SDSU💻.
 
 <hr>
 ------
-Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 
-Last Edited on: 11/14/2024
+Last Edited on: 11/23/2024
