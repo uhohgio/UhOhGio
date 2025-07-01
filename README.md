@@ -8,10 +8,10 @@ A Computer Science Graduate from SDSU💻.
 <!-- TODO: Add last video link -->
 
 - :seedling: Four years of coding experience
-- 🛠️ Working on my Web Dev and Game Dev skills
+- 🛠️ Working on my App Dev skills
 - 🔍 Actively seeking an internship or entry-level role for 2025
 - 💭 Passionate about creativity and building cool things with code
-- 🧠 Currently deep-diving into FreeCodeCamp: [Check out my profile](https://www.freecodecamp.org/UhOhGio)
+- 🧠 Currently deep-diving into FreeCodeCamp: <a href="https://www.freecodecamp.org/UhOhGio" target="_blank">Check out my profile</a>
 
 🤝 &nbsp; Let's Connect!
 
@@ -26,4 +26,4 @@ A Computer Science Graduate from SDSU💻.
 <hr>
 ------
 
-Last Edited on: 11/23/2024
+Last Edited on: 07/01/2025
