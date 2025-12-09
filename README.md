@@ -7,9 +7,9 @@
 
 <!-- TODO: Add last video link -->
 
-- 🌱 4 years of coding experience
-- 📱 Currently focused on app development
-- 🚀 Actively seeking 2025 internships or entry-level SWE roles
+- 🌱 5 years of coding experience
+- 📱 Currently focused on React-based web development 
+- 🚀 Actively seeking 2026 internships or entry-level SWE roles
 - 💡 Love blending creativity & logic through code
 - 🧠 Deep-diving into FreeCodeCamp: <a href="https://www.freecodecamp.org/UhOhGio" target="_blank">Check out my profile</a>
 
@@ -67,15 +67,6 @@ Linux: Confident using terminal and basic shell scripting for dev tasks.
 Overleaf: I use Overleaf regularly to create clean, professional LaTeX documents like resumes and cover letters, and I’m exploring more technical use cases.
 </details>
 
-<hr>
-
-[![Gio's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=UhOhGio&show_icons=true&theme=moltack#gh-light-mode-only)](https://github-readme-stats.vercel.app/api#gh-light-mode-only)
-[![GitHub Streak-Light](https://streak-stats.demolab.com?user=UhOhGio&theme=moltack#gh-light-mode-only)](https://github-readme-stats.vercel.app/api#gh-light-mode-only)
-[![Gio's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=UhOhGio&show_icons=true&theme=onedark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api#gh-dark-mode-only)
-[![GitHub Streak-Dark](https://streak-stats.demolab.com?user=UhOhGio&theme=onedark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api#gh-dark-mode-only)
-
-
-
 ------
 
-Last Edited on: 07/07/2025
+Last Edited on: 12/09/2025
